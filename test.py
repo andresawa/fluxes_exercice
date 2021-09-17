@@ -1,4 +1,4 @@
-if (Fco2_ponto1 + Fco2_ponto2 == -5.944):
+if (Fco2_ponto1 + Fco2_ponto2 == -5.959):
     print("O calculo tá certo, você pode continuar com o proximo código")
     teste = True
 elif (Fco2_ponto1 == -2.138):
